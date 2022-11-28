@@ -20,4 +20,4 @@ int GetPositiveCount()
     return result;
 }
 
-Console.WriteLine("Результат: "+GetPositiveCount());
+Console.WriteLine("Результат: " + GetPositiveCount());
